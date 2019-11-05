@@ -1862,7 +1862,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		display: block;
-		font-size: 2em;
+		font-size: 2.75em;
 		font-weight: 700;
 		color: #FFF;
 	}
@@ -2021,7 +2021,8 @@
 		}
 		
 		.bannerbox h2{
-			font-size: 1.5em;
+			font-size: 2.2em;
+			line-height: 1.0em;
 		}		
 
 /* Main */
@@ -2060,7 +2061,7 @@
 			color: #fff;
 			font-size: 2.0em;
 		}
-		
+			
 		#main p {
 			color: #555;		
 		}
@@ -2199,7 +2200,7 @@
 			
 		
 
-/* Copyright */
+/* Copyrigt */
 
 	.copyright {
 		position: relative;
@@ -2256,7 +2257,7 @@
 		/* Logo */
 
 			#logo h1 a {
-				top: 0.95em;
+				top: 2.5em;
 			}
 
 			#logo .pennant {
